@@ -1,0 +1,11 @@
+NoHungry: true
+KillerSetHealth: true
+HealthSetLevel: 20.0
+KillerAbsorption: true
+AbsorptionLevel: 0
+AbsorptionTime: 600
+Health: true
+HealthLevel: 0
+HealthTime: 100
+Sound: true
+KSonLevel: true
